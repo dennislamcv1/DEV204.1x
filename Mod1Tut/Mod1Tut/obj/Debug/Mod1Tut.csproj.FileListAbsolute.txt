@@ -1,0 +1,7 @@
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\bin\Debug\Mod1Tut.exe.config
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\bin\Debug\Mod1Tut.exe
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\bin\Debug\Mod1Tut.pdb
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\obj\Debug\Mod1Tut.csprojAssemblyReference.cache
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\obj\Debug\Mod1Tut.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\obj\Debug\Mod1Tut.exe
+C:\Users\Dennis\source\repos\Mod1Tut\Mod1Tut\obj\Debug\Mod1Tut.pdb
